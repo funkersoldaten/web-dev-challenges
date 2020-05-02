@@ -1,0 +1,156 @@
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bold-title {
+font-weight: 600;
+}
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+h3 {
+  font-weight: 200;
+  font-size: 15px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 532.8px;
+  margin-bottom: 50px;
+}
+
+.supervisor-card{
+  margin-left: auto;
+  margin-right: 0;
+  border-top-style: solid;
+  border-color: hsl(180, 62%, 55%);
+  border-width: 5px;
+  border-radius: 5px;
+  width: 80%;
+  box-shadow: 0 5px 10px grey;
+}
+
+.sc-title{
+  margin-left: 25px;
+}
+
+.sc-desc{
+  font-size: 15px;
+  width: 75%;
+  margin-left: 25px;
+  margin-bottom: 35px;
+}
+
+.sc-img img{
+  margin-left: 75%;
+  margin-bottom: 25px;
+}
+
+.teambuilder-card{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 44px;
+  border-top-style: solid;
+  border-color: hsl(0, 78%, 62%);
+  border-width: 5px;
+  border-radius: 5px;
+  width: 80%;
+  box-shadow: 0 5px 10px grey;
+}
+
+.tc-title{
+  margin-left: 25px;
+}
+
+.tc-desc{
+  font-size: 15px;
+  width: 75%;
+  margin-left: 25px;
+  margin-bottom: 35px;
+}
+
+.tc-img img{
+  margin-left: 75%;
+  margin-bottom: 25px;
+}
+
+.karma-card{
+  margin-top: 44px;
+  margin-left: auto;
+  margin-right: auto;
+  border-top-style: solid;
+  border-color: hsl(34, 97%, 64%);
+  border-width: 5px;
+  border-radius: 5px;
+  width: 80%;
+  box-shadow: 0 5px 10px grey;
+}
+
+.kc-title{
+  margin-left: 25px;
+}
+
+.kc-desc{
+  font-size: 15px;
+  width: 75%;
+  margin-left: 25px;
+  margin-bottom: 35px;
+}
+
+.kc-img img{
+  margin-left: 75%;
+  margin-bottom: 25px;
+}
+
+.calculator-card{
+  margin-left: 0;
+  margin-right: auto;
+  border-top-style: solid;
+  border-color: hsl(212, 86%, 64%);
+  border-width: 5px;
+  border-radius: 5px;
+  width: 80%;
+  box-shadow: 0 5px 10px grey;
+}
+
+.cc-title{
+  margin-left: 25px;
+}
+
+.cc-desc{
+  font-size: 15px;
+  width: 75%;
+  margin-left: 25px;
+  margin-bottom: 35px;
+}
+
+.cc-img img{
+  margin-left: 75%;
+  margin-bottom: 25px;
+}
+
+.middle-container{
+  position: relative;
+}
+
+.left-section{
+  bottom: 150px;
+  position: relative;
+  display: inline-block;
+  width: 33%;
+}
+
+.mid-section{
+  position: relative;
+  display: inline-block;
+  width: 33%;
+}
+
+.right-section{
+  bottom: 150px;
+  position: relative;
+  display: inline-block;
+  width: 33%;
+}
